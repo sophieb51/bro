@@ -1,8 +1,8 @@
 
-export function Content (props) {
+export function Content(props) {
     return (
         <main class="content">
-            
+
         </main>
     )
 }

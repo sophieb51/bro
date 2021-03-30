@@ -1,14 +1,14 @@
 import './App.css';
 
-import {Header} from './components/Header'
-import {Footer} from './components/Footer'
+import { Header } from './components/Header'
+import { Footer } from './components/Footer'
 
 import Logo from './lightbulb-solid.png'
 
 const Nav = [
-  { "link" : "/", "name" : "Home" },
-  { "link" : "/about", "name" : "About" },
-  { "link" : "/contact", "name" : "Contact" }
+  { "link": "/", "name": "Home" },
+  { "link": "/about", "name": "About" },
+  { "link": "/contact", "name": "Contact" }
 ]
 
 function App() {
